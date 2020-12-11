@@ -1,0 +1,13 @@
+C:\Matheus\URI-1115\bin\Debug\netcoreapp3.1\URI-1115.exe
+C:\Matheus\URI-1115\bin\Debug\netcoreapp3.1\URI-1115.deps.json
+C:\Matheus\URI-1115\bin\Debug\netcoreapp3.1\URI-1115.runtimeconfig.json
+C:\Matheus\URI-1115\bin\Debug\netcoreapp3.1\URI-1115.runtimeconfig.dev.json
+C:\Matheus\URI-1115\bin\Debug\netcoreapp3.1\URI-1115.dll
+C:\Matheus\URI-1115\bin\Debug\netcoreapp3.1\URI-1115.pdb
+C:\Matheus\URI-1115\obj\Debug\netcoreapp3.1\URI-1115.csprojAssemblyReference.cache
+C:\Matheus\URI-1115\obj\Debug\netcoreapp3.1\URI-1115.AssemblyInfoInputs.cache
+C:\Matheus\URI-1115\obj\Debug\netcoreapp3.1\URI-1115.AssemblyInfo.cs
+C:\Matheus\URI-1115\obj\Debug\netcoreapp3.1\URI-1115.csproj.CoreCompileInputs.cache
+C:\Matheus\URI-1115\obj\Debug\netcoreapp3.1\URI-1115.dll
+C:\Matheus\URI-1115\obj\Debug\netcoreapp3.1\URI-1115.pdb
+C:\Matheus\URI-1115\obj\Debug\netcoreapp3.1\URI-1115.genruntimeconfig.cache
